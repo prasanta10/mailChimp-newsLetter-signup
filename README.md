@@ -15,7 +15,7 @@ A small (but working) nodejs and expressjs newsletter app, deployed to Heroku.
 ### Description
 
 This server-side project uses Mailchimp's API to create a working, real-world newsletter sign-up form application. This JavaScript project form is actually integrated 
-with this site's newsletter sign-up campaign, so if you haven't already done so, sign up to my <a href="https://safe-river-82427.herokuapp.com/>Mailchimp Newsletter</a>
+with this site's newsletter sign-up campaign, and subscribes the user for my Newsletter once he signs up.
 
 ### Screenshot
 
