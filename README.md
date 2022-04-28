@@ -36,4 +36,4 @@ with this site's newsletter sign-up campaign, and subscribes the user for my New
 - Mailchimp API
 - npm modules (body-parser, request)
 - Basic HTML
-- Intermediate CSS
+- Intermediate CSS & Bootstrap 4
